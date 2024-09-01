@@ -4,7 +4,8 @@
 <p align="left">
   I am a Junior at SUNY Albany working towards my major in Computer Science, as well as my minors in Math and Informatics! 
 </p>
-<h4>Hobbies:</h4>
+  
+<b>Hobbies:</b>
 <p align="left"> Art; Cooking; Gaming; Music</p>
 
 <h3 align="left">Connect with me:</h3>
