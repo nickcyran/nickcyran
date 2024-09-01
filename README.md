@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nick</h1>
+![Header](./![github-header-image](https://github.com/user-attachments/assets/0e78dda7-c0bb-446e-af60-9ed4d035ca0a))
+<h1 align="center">Hey 👋, I'm Nick</h1>
 <h3 align="center">A computer science student at UAlbany</h3>
 
 <h3 align="left">Connect with me:</h3>
