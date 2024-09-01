@@ -73,12 +73,9 @@
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickcyran&show_icons=true&locale=en&layout=compact&theme=dark" alt="nickcyran" /></p>
 </h3>
 
-<h3 align="left">
-  🏆 1st place: Hack-A-Damien Hackathon 2024
-</h3>
-<a href="https://nicyran.itch.io/blockade" target="_blank" rel="noreferrer">
-  <img src="https://img.itch.zone/aW1nLzE1Nzc0OTM2LnBuZw==/180x143%23c/C5tq0Y.png" alt="Blockade on itch.io" height="165" style="display: inline; vertical-align: top;"/>
-</a>
+🏆 1st place: Hack-A-Damien Hackathon 2024
+
+[![Blockade on itch.io](https://img.itch.zone/aW1nLzE1Nzc0OTM2LnBuZw==/180x143%23c/C5tq0Y.png)](https://nicyran.itch.io/blockade)
 
 
 
