@@ -76,7 +76,7 @@
 <h3>🏆 1st place: Hack-A-Damien Hackathon 2024
  
 </h3>
-![Blockade by nicyran](https://img.itch.zone/aW1nLzE1Nzc0OTM2LnBuZw==/180x143%23c/C5tq0Y.png)(https://nicyran.itch.io/blockade)
+![Blockade by nicyran](https://img.itch.zone/aW1nLzE1Nzc0OTM2LnBuZw==/180x143%23c/C5tq0Y.png)
 
 
 
