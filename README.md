@@ -74,7 +74,7 @@
 </h3>
 
 <h3 align="left">🏆 1st place: Hack-A-Damien Hackathon 2024</h3>
-<a href="https://nicyran.itch.io/blockade" target="_blank" rel="noreferrer" style="display: inline-block; background-color: #f0f0f0; padding: 5px;">
+<a href="https://nicyran.itch.io/blockade" target="_blank" rel="noreferrer>
   <img src="https://img.itch.zone/aW1nLzE1Nzc0OTM2LnBuZw==/180x143%23c/C5tq0Y.png" alt="Blockade on itch.io" height="120"/> 
 </a>
 
