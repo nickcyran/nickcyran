@@ -77,12 +77,10 @@
   🏆 1st place: Hack-A-Damien 2024
 </h3>
 
-<div style="display: flex; align-items: center;">
-  <a href="https://nicyran.itch.io/blockade" target="_blank" rel="noreferrer">
-    <img src="https://img.itch.zone/aW1nLzE1Nzc0OTM2LnBuZw==/180x143%23c/C5tq0Y.png" alt="Blockade on itch.io" height="120" style="margin-right: 10px;" />
-  </a>
-  <p style="margin: 0;">play now</p>
-</div>
+<a href="https://nicyran.itch.io/blockade" target="_blank" rel="noreferrer">
+  <img src="https://img.itch.zone/aW1nLzE1Nzc0OTM2LnBuZw==/180x143%23c/C5tq0Y.png" alt="Blockade on itch.io" height="120" style="vertical-align:middle" /> 
+</a>
+<span style="display:inline-block; vertical-align:middle; margin-left:10px;">play now</span>
 
 
 
