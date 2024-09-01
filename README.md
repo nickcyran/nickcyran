@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/db62cac5-0372-4c5d-acec-4127294759af)
+![header](https://github.com/user-attachments/assets/2ff5615c-6805-46d9-93f3-62fdf98571b6)
 
 <h1 align="center">Hey 👋, I'm Nick</h1>
 <h3 align="center">A computer science student at UAlbany</h3>
