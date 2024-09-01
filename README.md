@@ -1,6 +1,4 @@
 ![banner](https://github.com/user-attachments/assets/6773f722-9606-44e4-a030-6fc527e1d990)
-
-<h1 align="center">Hey 👋, I'm Nick</h1>
 <h3 align="center">A computer science student at UAlbany</h3>
 
 <h3 align="left">Connect with me:</h3>
