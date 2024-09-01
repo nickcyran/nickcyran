@@ -81,7 +81,7 @@
  <a href="https://nicyran.itch.io/blockade" target="_blank" rel="noreferrer">
     <img src="https://img.itch.zone/aW1nLzE1Nzc0OTM2LnBuZw==/180x143%23c/C5tq0Y.png" alt="Blockade on itch.io" height="120" /> 
   </a>
-
+<p> play now</p>
 
 
 
