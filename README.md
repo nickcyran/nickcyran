@@ -11,14 +11,11 @@
 <p align="left">
 
 Email: ncyran@albany.edu </br>
-Phone: 1-914-223-9939 </br></br>
-
-<a href="https://linkedin.com/in/nicolas-cyran" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-cyran" height="30" width="40" />
-</a> 
-
-
+Phone: 1-914-223-9939 </br>
 </p>
+  <a href="https://linkedin.com/in/nicolas-cyran" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-cyran" height="30" width="40" />
+  </a> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
