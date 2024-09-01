@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://nickcyran.github.io/portfolio-site/" target="blank">Portfolio site</a> </br>
   Email: ncyran@albany.edu </br>
   Phone: 1-914-223-9939 </br>
+  <a href="https://nickcyran.github.io/portfolio-site/" target="blank">Portfolio site</a> </br>
 </p>
 
 <a href="https://linkedin.com/in/nicolas-cyran" target="blank">
