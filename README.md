@@ -1,6 +1,9 @@
 ![banner](https://github.com/user-attachments/assets/76f2ec90-d2f4-4597-a268-9ec9f20d77ec)
 <h1 />
-<h2 align="center">About Me: 👾</h2>
+<h3 align="left">About Me: 👾</h3>
+<p align="left">
+  I am a Junior at SUNY Albany working towards my major in Computer Science, as well as my minors in Math and Informatics! 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
