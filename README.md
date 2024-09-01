@@ -1,6 +1,6 @@
 ![banner](https://github.com/user-attachments/assets/76f2ec90-d2f4-4597-a268-9ec9f20d77ec)
 <h1 />
-<h3 align="left">About Me: 👾</h3>
+<h3 align="left">About me: 👾</h3>
 <p align="left">
   I am a Junior at SUNY Albany working towards my major in Computer Science, as well as my minors in Math and Informatics! 
 </p>
@@ -68,8 +68,11 @@
 </p>
 
 <h1 />
+  
 <h3> 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickcyran&show_icons=true&locale=en&layout=compact&theme=dark" alt="nickcyran" /></p>
 </h3>
+
+<h3>🏆 1st place: Hack-A-Damien Hackathon 2024</h3>
 
 
