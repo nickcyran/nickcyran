@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/6773f722-9606-44e4-a030-6fc527e1d990)
+![banner](https://github.com/user-attachments/assets/76f2ec90-d2f4-4597-a268-9ec9f20d77ec)
 <h1 />
 <h3 align="center">A computer science student at UAlbany</h3>
 
