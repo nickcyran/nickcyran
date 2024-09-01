@@ -5,7 +5,7 @@
   I am a Junior at SUNY Albany working towards my major in Computer Science, as well as my minors in Math and Informatics! 
 </p>
   
-<p align="left"><b>Hobbies: </b>  Art, Gaming, Cooking, Music</p>
+<p align="left"><b>Hobbies: </b> &nbsp; Art, Gaming, Cooking, Music</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
