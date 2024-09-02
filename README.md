@@ -2,7 +2,9 @@
 <h1 />
 <h3 align="left">About me: 👾</h3>
 <p align="left">
-  I am a Junior at SUNY Albany working towards my major in Computer Science, as well as my minors in Math and Informatics! 
+  I am a Junior at SUNY Albany working towards my major in Computer Science, as well as my minors in Math and Informatics. 
+  I find computers, and their software so fascinating and I'm always applying myself so that I can learn even more about them.
+  I'm seraching for internship opportunities so if you like what you see feel free to reach out!
 </p>
   
 <p align="left"><b>Hobbies: </b> &nbsp; Art - Gaming - Cooking - Music - Reading</p>
