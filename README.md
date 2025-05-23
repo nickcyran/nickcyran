@@ -79,7 +79,7 @@
 <h1 />
   
 <h3> 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickcyran&show_icons=true&locale=en&layout=compact&theme=dark" alt="nickcyran" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickcyran&show_icons=true&locale=en&layout=compact&theme=dark" alt="nickcyran" /></p>
 </h3>
 
 <span> 
