@@ -7,7 +7,7 @@
   I'm seraching for internship opportunities so if you like what you see feel free to reach out!
 </p>
   
-<p align="left"><b>Hobbies: </b> &nbsp; Art - Gaming - Cooking - Music - Reading</p>
+<p align="left"><b>Hobbies: </b> &nbsp; Art - Game Development - Cooking - Music </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
